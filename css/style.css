@@ -1,0 +1,28 @@
+body {
+	background-image: url("dog.gif");
+ }
+
+h1 {
+	background-color: yellow;
+ }
+
+h2 {
+	background-color: dodgerblue;
+ }
+
+div.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	background-color: green;	
+ }
+
+ul {
+	border-style: dotted;
+	background-color: white;
+ }
+
+ol {
+	border-style: double;
+	background-color: white;
+ }
