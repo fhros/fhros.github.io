@@ -26,3 +26,8 @@ ol {
 	border-style: double;
 	background-color: white;
  }
+
+table, th, td {
+	border-style: groove;
+	background-color: lime;
+ }
