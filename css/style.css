@@ -27,7 +27,7 @@ ol {
 	background-color: white;
  }
 
-table, th, td {
+table, td, tr {
 	border-style: groove;
 	background-color: lime;
  }
