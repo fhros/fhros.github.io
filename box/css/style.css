@@ -6,7 +6,7 @@ div {
 	font-size: 20px;
 }
 
-div.box {
+.box {
 	box-sizing: border-box;
 	background-color: #007FFF;
 	width: 400px;
