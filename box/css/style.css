@@ -2,12 +2,12 @@
 	width: 200px;
 	border: 30px ridge red;
 	padding: 30px;
-	margin: 20px 0px 0px 20px;
+	margin: 0 auto;
 	font-size: 20px;
 }
 
 .box2 {
-	margin: 20px 20px;
+	margin: 20px auto;
 	box-sizing: border-box;
 	background-color: black;
 	width: 400px;
