@@ -1,4 +1,4 @@
-div {
+.box {
 	width: 200px;
 	border: 30px solid red;
 	padding: 30px;
@@ -6,10 +6,15 @@ div {
 	font-size: 20px;
 }
 
-.box {
+.box2 {
+	margin: 20px 20px;
 	box-sizing: border-box;
 	background-color: #007FFF;
 	width: 400px;
 	padding:50px;
 	border: solid 20px black;
+}
+
+h2 {
+	background-color: red;
 }
