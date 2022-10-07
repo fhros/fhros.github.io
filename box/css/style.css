@@ -1,6 +1,6 @@
 .box {
 	width: 200px;
-	border: 30px solid red;
+	border: 30px ridge red;
 	padding: 30px;
 	margin: 20px 0px 0px 20px;
 	font-size: 20px;
@@ -9,12 +9,16 @@
 .box2 {
 	margin: 20px 20px;
 	box-sizing: border-box;
-	background-color: #007FFF;
+	background-color: black;
 	width: 400px;
 	padding:50px;
-	border: solid 20px black;
+	border: ridge 20px gray;
+	color: white;
 }
 
 h2 {
-	background-color: red;
+	background-color: dodgerblue;
+	font-size: 50px;
+	margin: -50px -50px 20px -50px;
+	color: white;
 }
