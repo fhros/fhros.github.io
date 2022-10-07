@@ -1,7 +1,15 @@
 div {
-	width: 400px;
+	width: 200px;
 	border: 30px solid red;
-	padding: 50px;
-	margin: 200px 0px 0px 225px;
-	font-size: 50px;
+	padding: 30px;
+	margin: 20px 0px 0px 20px;
+	font-size: 20px;
+}
+
+div.box {
+	box-sizing: border-box;
+	background-color: #007FFF;
+	width: 400px;
+	padding:50px;
+	border: solid 20px black;
 }
